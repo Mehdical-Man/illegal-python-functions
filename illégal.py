@@ -1,5 +1,4 @@
 """This module contains dangerous functions!"""
-import functions
 import ctypes
 import warnings
 import sys
